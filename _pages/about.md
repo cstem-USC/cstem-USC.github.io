@@ -3,6 +3,8 @@ layout: single
 permalink: /about/
 author_profile: false
 ---
+
 <center>
-Hi 
+<img src="/images/cSTEM_logo.png" alt="home_pic">
 </center>
+
