@@ -5,12 +5,12 @@ author_profile: false
 ---
 
 <center>
-<img src="/images/cSTEM_logo.png" alt="home_pic", width = 350, height = 350>
+<img src="/images/cSTEM_logo.png" alt="home_pic", width = "350", height = "350">
 </center>
 <hr>
 
 <center>
-Over the past century, the sciences, technologies engineering and mathematics have become progressively more specialized, each diverging into an array of sub-disciplines. While this divergence has led to significant advances in each area, it has also resulted in silos of expertise that run deep and often remain isolated. This hindered the further development of complex sciences and technologies such as modern medicine and biosciences. To facilitate the communication and collaboration of expertise from various disciplines to advance future STEM research, cSTEM focuses on training current young researchers and trainees with techniques, knowledge, and most importantly, the language of a variety of research areas for advancing convergent research.
+Over the past century, the sciences, technologies engineering and mathematics have become progressively more specialized, each diverging into an array of sub-disciplines. While this divergence has led to significant advances in each area, it has also resulted in silos of expertise that run deep and often remain isolated. This hindered the further development of complex sciences and technologies such as modern medicine and biosciences. To facilitate the communication and collaboration of expertise from various disciplines to advance future STEM research, <font color="firebrick"><b>cSTEM</b></font>focuses on training current young researchers and trainees with techniques, knowledge, and most importantly, the language of a variety of research areas for advancing convergent research.
 <br>
 <br>
 
