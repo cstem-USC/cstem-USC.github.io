@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /People/
+permalink: /people/
 author_profile: false
 ---
 
