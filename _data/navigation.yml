@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "People"
     url: /people/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Membership"
+    url: /membership/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

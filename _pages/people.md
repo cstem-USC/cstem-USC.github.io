@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /people/
+permalink: /People/
 author_profile: false
 ---
 
-<center><font size="+3">cSTEM Executive Board</font></center>
+<center><b>font size="+4">cSTEM Executive Board</font></b></center>
