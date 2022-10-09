@@ -4,4 +4,4 @@ permalink: /people/
 author_profile: false
 ---
 
-<center><b>font size="+4">cSTEM Executive Board</font></b></center>
+<center><font size="+3"><b>cSTEM Executive Board</b></font></center>
