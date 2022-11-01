@@ -6,9 +6,9 @@ main:
     url: /people/
   - title: "Membership"
     url: /membership/
-  - title: "Contact"
-    url: /contact/
   - title: "Resources"
     url: /resources/
+  - title: "Contact"
+    url: /contact/
   # - title: "Sitemap"
   #   url: /sitemap/
