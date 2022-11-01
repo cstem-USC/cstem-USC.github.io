@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /membership/
+permalink: /programs/
 author_profile: false
 ---
 

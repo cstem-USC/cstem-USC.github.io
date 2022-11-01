@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "People"
     url: /people/
-  - title: "Membership"
-    url: /membership/
+  - title: "Programs"
+    url: /programs/
   - title: "Resources"
     url: /resources/
   - title: "Contact"
