@@ -8,6 +8,6 @@ author_profile: false
 	<font size="+3"><b>cSTEM Executive Board</b></font>
 
 
-<embed src="/images/eBoard.svg">
+<embed src="/images/eBoard.svg", width="400" height="600">
 
 </center>
