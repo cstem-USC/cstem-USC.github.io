@@ -4,8 +4,10 @@ permalink: /people/
 author_profile: false
 ---
 
-<center><font size="+3"><b>cSTEM Executive Board</b></font>
+<center>
+	<font size="+3"><b>cSTEM Executive Board</b></font>
 
-<object data="eBoard.svg"> </object>
+
+<img src="/static/image.svg">
 
 </center>
