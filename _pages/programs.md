@@ -18,4 +18,4 @@ author_profile: false
 
 <hr>
 
-<center><iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&title=cSTEM%20Events%20Calendar&showTz=1&showNav=1&src=Y3N0ZW0udXNjQGdtYWlsLmNvbQ&color=%23039BE5" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe></center>
+<center><iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&title=cSTEM%20Events%20Calendar&showTz=1&showNav=1&src=Y3N0ZW0udXNjQGdtYWlsLmNvbQ&color=%23039BE5" style="border-width:0" width="500" height="500" frameborder="0" scrolling="no"></iframe></center>
