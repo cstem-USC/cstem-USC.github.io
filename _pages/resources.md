@@ -5,11 +5,12 @@ author_profile: false
 ---
 
 <center><font size="+3"><b>Resources for USC Students</b></font></center>
-<hr>
+
 
 <center>
 	On this page, you can find links to various resources from our organization. 
 	<br>
+	<hr>
 
 </center>
 
