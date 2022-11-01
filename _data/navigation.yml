@@ -8,5 +8,7 @@ main:
     url: /membership/
   - title: "Contact"
     url: /contact/
+  - title: "Resources"
+    url: /resources/
   # - title: "Sitemap"
   #   url: /sitemap/
