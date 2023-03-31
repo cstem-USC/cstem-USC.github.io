@@ -14,6 +14,15 @@ author_profile: false
 	<hr>
 </center>
 
+
+<font color="firebrick"><b> 1st Annual cSTEM Symposium</b></font> cSTEM is hosting its first ever annual symposium in the Michelson Center for Convergent Biosciences. This will be an exciting oppportunity for students from different majors within the building to showcase their work/research and forge new connections and collaborations with one another. // 
+The symposium is set to be held tentatively on <b> May 1, 2023</b>. If you are interested in participating, please fill out the google form below. More news and announcements to follow -- make sure to sign up for our email list!
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeIsc03MdenmHU3HavtSScekmnulm2lhZP48mtIKUNEmmgRpw/viewform?embedded=true" width="640" height="1645" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+<hr>
+
+
 <font color="firebrick"><b> What I talk about when I talk about (WITAWITA).</b></font> Have you ever wondered what "cryo EM" or "machine learning" really means? In STEM research, most of us are focused on a niche subject that we know a lot about. However, learning about different techniques, algorithms, and types of research is a great way to grow scientific curiousity and insight. These seminars are hosted in person in MCB 102 on campus (and also broadcasted on zoom) 1-2 times a month. Check our calendar below to make sure you attend our next WITAWITA seminar! 
 
 <hr>
